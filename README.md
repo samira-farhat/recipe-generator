@@ -28,6 +28,17 @@ Built using Flutter and the Spoonacular API.
 
 ## Screenshots
 
+### Main Screen to Search Ingredients
+![Main Screen](screenshots/searchIngredients.png)
+
+### Recipes Screen
+![Recipes Screen](screenshots/recipesFound.png)
+
+### Recipe Deatils Screen
+![Recipe Details Screen](screenshots/recipe.png)
+
+### Favorite Recipes Screen
+![Favorites Screen](screenshots/favoriteRecipes.png)
 
 
 
